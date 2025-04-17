@@ -1,5 +1,5 @@
 
-# 🏥 Sistema de Gestión de Recursos de un Hospitalarios
+# 🏥 Sistema de Gestión de Recursos Hospitalarios
 
 Este proyecto tiene como objetivo desarrollar una **aplicación web** para la gestión de recursos físicos y materiales dentro de un hospital. El sistema permitirá registrar, controlar, consultar y reportar el uso y disponibilidad de insumos médicos, equipos, mobiliario y otros recursos, excluyendo pacientes o citas médicas.
 🛏️💉🧴
